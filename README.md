@@ -5,11 +5,11 @@ Desafio-Conceitos-React-Native / GoStack
 
 <h3>🚀 Sobre o desafio </h3>
 
-Este desafio tem a intenção de criar uma aplicação para treinar o que eu aprendi ate agora com **React Native!**
+Este desafio tem a intenção de criar uma aplicação com os conceitos básicos do **React Native!**
 
 ### Funcionalidades da aplicação
 
-<b>```✔Listar os repositórios da API```:</b> Deve ser capaz de criar uma lista de todos os repositórios que estão cadastradas na API com os campos **title, techs** e número de curtidas seguindo o padrão <code>${repository.likes} crutidas</code>, apenas alterando o número para ser dinâmico.
+<b>```✔Listar os repositórios da API```:</b> Deve ser capaz de criar uma lista de todos os repositórios que estão cadastradas na API com os campos **title, techs** e número de curtidas seguindo o padrão <code>${repository.likes} curtidas</code>, apenas alterando o número para ser dinâmico.
 
 <b>```✔Curtir um repositório listado da API```:</b> Deve ser capaz de curtir um item na API através de um botão com o texto **Curtir** e deve atualizar o número de likes na listagem no mobile.
 
